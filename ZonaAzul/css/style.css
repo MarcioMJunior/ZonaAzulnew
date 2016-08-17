@@ -1,0 +1,62 @@
+/* espaçamento */
+.clearmin{padding-top: 0.5%;}
+.clear{padding-top: 2%;}
+.clear2{padding-top: 4%;}
+.clear3{padding-top: 6%;}
+.clear4{padding-top: 8%;}
+.clear5{padding-top: 10%;}
+/* fim do espaçamento */
+
+/*tela de login*/
+.fundoLogin{
+	background-image: url('../img/login_fundo.png');
+	background-repeat: no-repeat;
+}
+.margem{
+	padding-top: 2%;
+	display: block;
+	margin-right: auto;
+  	margin-left: auto;
+}
+.box-login{
+	border-radius: 8px;
+	background-color: rgba(255,255,255,0.5);
+}
+
+/*painel adm*/
+.adm{
+	background-image: url('../img/adm_fundo.png');
+	background-repeat: repeat;
+}
+.margem-adm{
+	padding-left: 2%;
+	padding-right: 2%;
+}
+.controle-form{
+	padding-right: 1%;
+	padding-left: 1%;
+}
+.block{
+	width: 100%;
+	border-radius: 5px;
+	background-color: rgba(255,255,255,0.5);
+}
+.menus h4{
+	color: #fff;
+	font-size: 11pt;
+}
+.painel-controle{
+	background-color: #fff;
+	width: 100%;
+	padding: 1% 1% 1% 1%;
+	border-radius: 5px;
+}
+
+/*tabela de precos no painel do ponto de venda*/
+.tabela{
+	border-width: medium;
+    border-style: solid;
+    border-color: #000;
+    text-align: center;
+}
+/**/
